@@ -9,7 +9,7 @@ Los nombres de los archivos TXT guardan la estructura de codigo categoria _ mont
 # Estructura
 
 /Examen_Tecnico │
-├── /DATA_RE # Folder containing the .txt files for analysis. The .txt files follow the structure codigo_categoria_month│
+├── /DATA_RE # Carpeta que contiene los archivos .txt para analizar, los archivos TXT guardan la estructura de codigo categoria _ month│
   └───  1011100_22023.txt
         1011100_62024.txt
         1011200_22024.txt
@@ -32,13 +32,13 @@ Los nombres de los archivos TXT guardan la estructura de codigo categoria _ mont
         1081600_112023.txt
         1701100_62022.txt
         1701100_112023.txt│
-├── Categorias.txt # File containing the mapping of category codes to category names
-├── combined_data.csv # CSV file with the combined data extracted from the .txt files
-├── ejemplo.xlsx # Excel file containing sample data and an example of the final structure that should be exported
-├── LICENSE # Project license 
-├── main.ipynb # Main Jupyter Notebook that performs the analysis
-├── README_ENGLISH.md #  Project documentation in english
-├── README.md #  Project documentation in spanish │
+├── Categorias.txt # Archivo con la relación de códigos de categoría y nombres de categorías 
+├── combined_data.csv # Archivo CSV con los datos combinados extraidos de los archivos txt
+├── ejemplo.xlsx # Archivo Excel que contiene datos de ejemplo y ejemplo e la estructura del excel final que se debe exportar
+├── LICENSE # Licencia del proyecto 
+├── main.ipynb # Jupyter Notebook principal que ejecuta el análisis 
+├── README_ENGLISH.md # Documentación del proyecto en inglés
+├── README.md # Documentación del proyecto en español │
 
 # Librerias utilizadas
 
