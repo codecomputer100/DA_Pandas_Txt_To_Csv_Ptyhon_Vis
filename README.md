@@ -5,7 +5,7 @@ Dentro de la carpeta DATA_RE, encontraras los archivos correspondientes a la ven
 
 Por ende sera necesario realizar un trabajo de preprocesamiento con pandas leyendo cada archivo txt y agregando a los dataframes, tanto el codigo de categoria como el mes en que se realizo la transacción.
 
-Los nombres de los archivos TXT guardan la estructura de codigo categoria _ month, posteriormente al añadir el codigo de categoria debera relacionarse con merge, en base al diccionario de categorias ubicado en el archivo CATEGORIAS DE PRODUCTOS_.txt
+Los nombres de los archivos TXT guardan la estructura de codigo categoria _ month, posteriormente al añadir el codigo de categoria debera relacionarse con merge, en base al diccionario de categorias ubicado en el archivo Categorias.txt
 
 # Estructura
 

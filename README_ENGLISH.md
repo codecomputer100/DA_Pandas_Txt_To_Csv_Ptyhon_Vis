@@ -3,7 +3,7 @@ You have an example in Excel of what the final table should look like in the fil
 
 Therefore, it will be necessary to perform preprocessing with Pandas by reading each `.txt` file and adding both the category code and the month in which the transaction was made to the DataFrames.
 
-The names of the `.txt` files follow the structure `codigo_categoria_month`, and after adding the category code, it should be merged based on the category dictionary located in the file `CATEGORIAS DE PRODUCTOS_.txt`.
+The names of the `.txt` files follow the structure `codigo_categoria_month`, and after adding the category code, it should be merged based on the category dictionary located in the file `Categorias.txt`.
 
 # Structure
 
