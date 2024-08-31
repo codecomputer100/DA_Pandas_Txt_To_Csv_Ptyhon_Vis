@@ -1,3 +1,4 @@
+[Translate to English](README_ENGLISH.md)
 # Resumen
 Tienes un ejemplo en excel de como debería quedar la tabla final en el archivo ejemplo.xlsx
 Dentro de la carpeta DATA_RE, encontraras los archivos correspondientes a la venta. Estos no cuentan con las columnas de CATEGORY, CATEGORY_NAME, Y MONTH
