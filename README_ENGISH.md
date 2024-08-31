@@ -7,7 +7,7 @@ The names of the `.txt` files follow the structure `codigo_categoria_month`, and
 
 # Structure
 
-/Examen_Tecnico │
+/  │
 ├── /DATA_RE # Folder containing the .txt files for analysis. The .txt files follow the structure codigo_categoria_month│
   └───  1011100_22023.txt
         1011100_62024.txt

@@ -8,7 +8,7 @@ Los nombres de los archivos TXT guardan la estructura de codigo categoria _ mont
 
 # Estructura
 
-/Examen_Tecnico │
+/ │
 ├── /DATA_RE # Carpeta que contiene los archivos .txt para analizar, los archivos TXT guardan la estructura de codigo categoria _ month│
   └───  1011100_22023.txt
         1011100_62024.txt
